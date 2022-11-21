@@ -55,7 +55,7 @@ Desenvolvido em React em [TypeScript](https://www.typescriptlang.org/) com [Vite
 
 ```bash
 # clone o repositório
-git clone https://github.com/RogerRoth/NLW-eSports
+git clone https://github.com/RogerRoth/nlw-eSports.git
 ```
 
 ## Back-end
