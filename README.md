@@ -28,9 +28,9 @@ Foi desenvolvido em [React Native](https://reactnative.dev/) com [TypeScript](ht
 
 ## Layout
 <h2 align="center">
-    <img alt="mobile_0" title="#mobile_0" src="/images/mobile_0.png" width="250px" />
-    <img alt="mobile_1" title="#mobile_1" src="/images/mobile_1.png" width="250px" />
-    <img alt="mobile_2" title="#mobile_2" src="/images/mobile_2.png" width="250px" />
+    <img alt="tela_mobile_0" title="#mobile_0" src="/images/mobile_0.png" width="250px" />
+    <img alt="tela_mobile_1" title="#mobile_1" src="/images/mobile_1.png" width="250px" />
+    <img alt="tela_mobile_2" title="#mobile_2" src="/images/mobile_2.png" width="250px" />
 </h2>
 
 # Web
@@ -43,10 +43,10 @@ Desenvolvido em React em [TypeScript](https://www.typescriptlang.org/) com [Vite
 - [Phosphor Icons](https://phosphoricons.com/)
 
 ## Layout
-![tela 1 web](https://github.com/RogerRoth/nlw-eSports/images/web_0.png)
-
-![tela  2 web](https://github.com/RogerRoth/nlw-eSports/images/web_1.png)
-
+<h2 align="center">
+    <img alt="tela_web_0" title="#web_0" src="/images/web_0.png" width="250px" />
+    <img alt="tela_web_1" title="#web_1" src="/images/web_1.png" width="250px" />
+</h2>
 
 
 # Como executar o projeto
