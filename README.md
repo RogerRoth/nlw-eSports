@@ -44,8 +44,8 @@ Desenvolvido em React em [TypeScript](https://www.typescriptlang.org/) com [Vite
 
 ## Layout
 <h2 align="center">
-    <img alt="tela_web_0" title="#web_0" src="/images/web_0.png" width="250px" />
-    <img alt="tela_web_1" title="#web_1" src="/images/web_1.png" width="250px" />
+    <img alt="tela_web_0" title="#web_0" src="/images/web_0.png" width="750px" />
+    <img alt="tela_web_1" title="#web_1" src="/images/web_1.png" width="750px" />
 </h2>
 
 
